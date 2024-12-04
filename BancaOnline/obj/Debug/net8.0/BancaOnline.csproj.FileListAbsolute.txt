@@ -1,0 +1,14 @@
+C:\DAW\EX1\BancaOnline\BancaOnline\bin\Debug\net8.0\BancaOnline.exe
+C:\DAW\EX1\BancaOnline\BancaOnline\bin\Debug\net8.0\BancaOnline.deps.json
+C:\DAW\EX1\BancaOnline\BancaOnline\bin\Debug\net8.0\BancaOnline.runtimeconfig.json
+C:\DAW\EX1\BancaOnline\BancaOnline\bin\Debug\net8.0\BancaOnline.dll
+C:\DAW\EX1\BancaOnline\BancaOnline\bin\Debug\net8.0\BancaOnline.pdb
+C:\DAW\EX1\BancaOnline\BancaOnline\obj\Debug\net8.0\BancaOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\DAW\EX1\BancaOnline\BancaOnline\obj\Debug\net8.0\BancaOnline.AssemblyInfoInputs.cache
+C:\DAW\EX1\BancaOnline\BancaOnline\obj\Debug\net8.0\BancaOnline.AssemblyInfo.cs
+C:\DAW\EX1\BancaOnline\BancaOnline\obj\Debug\net8.0\BancaOnline.csproj.CoreCompileInputs.cache
+C:\DAW\EX1\BancaOnline\BancaOnline\obj\Debug\net8.0\BancaOnline.dll
+C:\DAW\EX1\BancaOnline\BancaOnline\obj\Debug\net8.0\refint\BancaOnline.dll
+C:\DAW\EX1\BancaOnline\BancaOnline\obj\Debug\net8.0\BancaOnline.pdb
+C:\DAW\EX1\BancaOnline\BancaOnline\obj\Debug\net8.0\BancaOnline.genruntimeconfig.cache
+C:\DAW\EX1\BancaOnline\BancaOnline\obj\Debug\net8.0\ref\BancaOnline.dll
