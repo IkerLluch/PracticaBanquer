@@ -1,9 +1,5 @@
 ﻿.idea
-.bin
-.obj
-private List<Client> clients = new List<Client>();
+bin
+obj
 
-    public void AfegirClient()
-    {
-        
         
